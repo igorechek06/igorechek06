@@ -9,4 +9,4 @@ ___
 ![Flutter](https://shields.io/badge/Flutter-02569b?logo=flutter&style=flat-square) ![Dart](https://shields.io/badge/Dart-blue?logo=dart&style=flat-square)
 
 ## 💬 Contacts:
-* Telegram - [@arslee](https://t.me/igorechek06)
+* Telegram - [@igorechek06](https://t.me/igorechek06)
