@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from '../Images/logo.gif';
-import { MDBCard, MDBCol, MDBRow } from 'mdbreact';
+import { MDBCol, MDBRow } from 'mdbreact';
 import { FiGithub, FiMail, RiTelegramLine } from 'react-icons/all';
 
 class Header extends Component {
