@@ -1,5 +1,3 @@
-# JetBrains email 2006giqhpmine.ru@gmail.com
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=igorechek06&show_icons=true&theme=dark)
  
 ___
@@ -11,4 +9,7 @@ ___
 ![Flutter](https://shields.io/badge/Flutter-02569b?logo=flutter&style=flat-square) ![Dart](https://shields.io/badge/Dart-blue?logo=dart&style=flat-square)
 
 ## 💬 Contacts:
+
 * Telegram - [@igorechek06](https://t.me/igorechek06)
+* Site - [igorek.dev](igorek.dev)
+* Email - [2006giqhpmine.ru@gmail.com <- JetBrains plz](mailme:2006giqhpmine.ru@gmail.com) or [me@igorek.dev](mailme:me@igorek.dev)
