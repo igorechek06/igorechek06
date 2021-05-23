@@ -11,5 +11,5 @@ ___
 ## 💬 Contacts:
 
 * Telegram - [@igorechek06](https://t.me/igorechek06)
-* Site - [igorek.dev](igorek.dev)
-* Email - [2006giqhpmine.ru@gmail.com <- JetBrains plz](mailme:2006giqhpmine.ru@gmail.com) or [me@igorek.dev](mailme:me@igorek.dev)
+* Site - [igorek.dev](https://igorek.dev)
+* Email - 2006giqhpmine.ru@gmail.com <- JetBrains plz or me@igorek.dev
