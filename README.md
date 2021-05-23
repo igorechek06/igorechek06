@@ -1,3 +1,5 @@
+//JetBrains email 2006giqhpmine.ru@gmail.com
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=igorechek06&show_icons=true&theme=dark)
  
 ___
