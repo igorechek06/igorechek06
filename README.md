@@ -10,6 +10,6 @@ ___
 
 ## 💬 Contacts:
 
-* Telegram - [@i_am_qwerty](https://t.me/i_am_qwerty)
+* Telegram - [@i_am_qwerty](https://t.me/i_am_qwerty) or [@igorechek06](https://t.me/igorechek06)
 * Site - [igorek.dev](https://igorek.dev)
 * Email - 2006giqhpmine.ru@gmail.com or me@igorek.dev
