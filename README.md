@@ -1,3 +1,3 @@
-* Telegram - [@igorechek06](https://t.me/igorechek06)
-* Site - [igorek.dev](https://igorek.dev)
-* Email - me@igorek.dev
+# I dont't use GitHub very often. All my repositories are located on [Codeberg](https://codeberg.org/igorechek06).
+
+[igorek.dev](https://igorek.dev)
